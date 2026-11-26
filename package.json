@@ -1,0 +1,16 @@
+{
+  "name": "img-precheck",
+  "version": "1.0.0",
+  "description": "Check photos before uploading: format, size, resolution and aspect ratio.",
+  "bin": {
+    "img-precheck": "check.js"
+  },
+  "scripts": {
+    "samples": "node scripts/make-samples.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT"
+}

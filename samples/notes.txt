@@ -1,0 +1,1 @@
+Not an image. img-precheck should list this file as skipped.
